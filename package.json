@@ -1,0 +1,24 @@
+{
+  "name": "starter",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/ognjengajic/js-modules-tooling-functional#readme",
+  "bugs": {
+    "url": "https://github.com/ognjengajic/js-modules-tooling-functional/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ognjengajic/js-modules-tooling-functional.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "clean.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "leaflet": "^1.9.4",
+    "lodash-es": "^4.18.1"
+  }
+}
